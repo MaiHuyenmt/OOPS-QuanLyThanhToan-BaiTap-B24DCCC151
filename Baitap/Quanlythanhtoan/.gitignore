@@ -1,0 +1,16 @@
+# Ignore compiled class files
+*.class
+
+# Ignore logs
+*.log
+
+# Ignore temp files
+*.tmp
+
+# Ignore build folders (if you compile manually)
+out/
+bin/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
